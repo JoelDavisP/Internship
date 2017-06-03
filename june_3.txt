@@ -6,3 +6,14 @@ Studied to create Git repository and initialize it. Studied commit and push oper
 
 
 Now modifying my first file then commit the operation.
+
+
+Modified the file successFully.
+
+
+Studied the basic Linux commands (pwd,cd,mkdir,cat,ls,touch etc.) and its application in the last week..
+
+
+Downloaded the given .iso files and try to study Loopback..
+
+Now commit the operation.
