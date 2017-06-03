@@ -17,3 +17,6 @@ Studied the basic Linux commands (pwd,cd,mkdir,cat,ls,touch etc.) and its applic
 Downloaded the given .iso files and try to study Loopback..
 
 Now commit the operation.
+
+
+Downloaded the git tutorials and untar the Zip files...
