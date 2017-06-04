@@ -1,5 +1,26 @@
 
 
-Commiting in another way
+Commiting in another way.
+
+A bit of memory loss!!
+
+This time try to recap the previous tasks once again..
 
 
+Create text file in local repo .
+
+Save and exit..
+
+cd internship
+
+git add *
+
+git commit -m 'msg'.
+
+git push -u origin master.
+
+give username and password.
+
+Thats all.. 
+
+Repository updated..
