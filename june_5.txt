@@ -1,0 +1,7 @@
+Completed commandline tutorial.
+
+Also studied Compilation tutorial.
+
+Started studying python programming.
+
+completed 3 chapters upto functions.
