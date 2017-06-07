@@ -1,0 +1,5 @@
+Completed the remaining 3 video tutorials.
+
+Director, Gdb, Shell Basics.
+
+Studied 2 chapters of python tutorials.
