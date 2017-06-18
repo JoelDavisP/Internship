@@ -1,0 +1,17 @@
+Class reached to the second week..
+
+Started google online tutorial classes yesterday..
+
+Read 4 lessons.
+
+Attended class in the morning batch..
+
+Studied about list comprehension, generator object and generator expression and also yield command..
+
+Studied a basic application of yield command, i.e. using in large data traversal scenarios..
+
+Yield is useful because it only stores small amount of data at a time, not the entire data..
+
+studied xrange and range command..
+
+Tried to modify python source code, but that attempt was not succeeded..
