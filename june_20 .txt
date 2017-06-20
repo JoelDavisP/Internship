@@ -1,0 +1,13 @@
+Today I tried The 'Baby Names exercise' in the google online tutorials.
+
+It's basically about the 'Regular Expression' part in python.
+
+So I'd to revise that part..
+
+I learned the usage of Regular Expressions..
+
+Problem was slightly difficult, and I made some modifications in the problem.
+
+At some places I'd to look at the solution part, but still I did the major logic of the problem.
+
+I also completed the wordcount problem, which was not finished yesterday

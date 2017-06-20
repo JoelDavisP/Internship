@@ -1,0 +1,7 @@
+Code for Google's Python Class
+Copyright 2010 Google Inc.
+
+This code developed by Nick Parlante
+at Google Inc.
+
+This is a test document.  It checks the number of each individual words and returns the count of each words in the text document...
