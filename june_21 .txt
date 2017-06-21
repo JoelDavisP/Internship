@@ -1,0 +1,9 @@
+Today I tried The 'Copy Special files exercise' in the python google online tutorials.
+
+It's basically about the 'additional utilities' part in python.
+
+I studied commands in the os module, like listdir(), path.join(), path.abspath() etc. I also learned copy command in shutil module.
+
+
+
+
